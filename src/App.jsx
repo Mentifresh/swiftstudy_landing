@@ -3,7 +3,7 @@ import Header from "./Header"
 import Footer from "./Footer"
 import Feat from "./Features"
 import Hero from "./Hero"
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import PrivacyPolicy from "./PrivacyPolicy"
 
 
