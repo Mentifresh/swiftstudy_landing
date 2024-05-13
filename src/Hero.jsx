@@ -40,7 +40,7 @@ export default function Hero() {
             </div>
           </div>
           <img
-            src="src/assets/test1.png"
+            src="/test1.png"
             alt="Product screenshot"
             className="w-[48rem] max-w-full rounded-xl shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem] md:-ml-4 lg:-ml-0"
             width={2432}

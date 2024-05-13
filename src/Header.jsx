@@ -31,7 +31,7 @@ export default function Header() {
       {/* md:items-center md:justify-between  */}
         <div className="min-w-0 flex-1" >
           <h2 className="lg:items-center px-3 py-2 ml-5 text-2xl font-bold leading-7 text-gray-900 sm:truncate sm:text-3xl sm:tracking-tight">
-            <img className="w-20 h-20" src ="src\assets\PNGIcon.png"/>
+            <img className="w-20 h-20" src ="/PNGIcon.png"/>
           </h2>
         </div>
         <div className="flex py-2 md:ml-4 md:mt-0">
